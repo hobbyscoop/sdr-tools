@@ -21,6 +21,8 @@ Supported formats:
 ### fir decimate
 
 ### fm demodulator
+Demodulates FM signals from complex I/Q samples to audio samples.
+It uses the same sample rate as the input samples. And applies a simple DC blocking filter.
 
 ### gfsk demodulator
 
